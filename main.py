@@ -74,8 +74,8 @@ app.config['MONGO_URI'] = 'mongodb://localhost:27017/mongologinexample'
 app.config["MAIL_SERVER"] = "smtp.gmail.com"
 app.config["MAIL_PORT"] = 465
 app.config["MAIL_USE_SSL"] = True
-app.config["MAIL_USERNAME"] = 'paurushbatishfbd@gmail.com'
-app.config["MAIL_PASSWORD"] = 'shashvat3'
+app.config["MAIL_USERNAME"] = 'Your mail'
+app.config["MAIL_PASSWORD"] = 'mail password'
 mail.init_app(app)
 mongo = PyMongo(app)
 
