@@ -6,7 +6,7 @@ from sqlalchemy.orm import relationship, backref
 
 engine = create_engine('sqlite:///tutorial.db', echo=True)
 Base = declarative_base()
-
+#i am agod
 ########################################################################
 class User(Base):
     """"""
