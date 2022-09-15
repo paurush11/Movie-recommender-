@@ -46,7 +46,7 @@ Use powershell-
 
 Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
 
-### The original project could not have been completed without the help of PranavKapoor28 https://github.com/kishan0725 
+### The original project could not have been completed without the help of https://github.com/kishan0725 
 
 
 
